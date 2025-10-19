@@ -1,7 +1,29 @@
-<h2 align="left"># Hey there! 👋  <br><br>Marvellous Chitenga here.....just a curious mind who loves solving problems with code, particuary AI, automation, or data driven apps.I’m all about making things work smarter and pushing boundaries of what tech can do  <br><br>
-### What I’m into:<br>-AI & Automation – Making machines do the thinking.  <br>- Software Development – Writing clean, efficient code.  <br>- Data Science & Trading Bots – Because numbers don’t lie.  <br><br>
-### 🛠️ Tech I Use:<br>🖥️ Python, Java, C#, JavaScript | 📡 APIs & Automation |Frameworks:Django, Flask ,Tensorflow ,Kubernetes, Pandas, Numpy |🧠 Machine Learning |Deep Learning | Data Analysis  <br><br>
-### 💬 Let’s Connect:<br>If you love tech, automation, or just geeking out, let’s talk!  <br>📩 Email chitengamarvellous@gmail.com | <br>🔗 LinkedIn<br>www.linkedin.com/in/marvellous-chitenga |</h2>
+<h2 align="left"># Hey there! 👋  
+  
+Marvellous Chitenga here.....just a curious mind who loves solving problems with code, particuary AI, automation, or data driven apps.I’m all about making things work smarter and pushing boundaries of what tech can do
+
+### What I’m into:
+
+- AI & Automation – Making machines do the thinking.
+- Software Development
+- Writing clean, efficient code.
+- Data Science & Trading Bots   
+### 🛠️ Tech I Use:
+
+- Python, Java, C#, JavaScript 
+
+- APIs & Automation
+
+- Frameworks: FastAPI |Django |Flask |Tensorflow |Kubernetes| Pandas |Numpy
+
+- Machine Learning |Deep Learning | Data Analysis  
+
+Let’s Connect If you love tech, automation, or just geeking out, let’s talk! 
+
+[Gmail](chitengamarvelllous@gmail.com)
+
+[linkedln](https://www.linkedin.com/in/marvellous-chitenga/)
+
 
 ###
 
