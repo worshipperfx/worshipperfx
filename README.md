@@ -1,4 +1,4 @@
-<h2 align="left"># Hey there! 👋  
+# Hey there! 👋  
   
 Marvellous Chitenga here.....just a curious mind who loves solving problems with code, particuary AI, automation, or data driven apps.I’m all about making things work smarter and pushing boundaries of what tech can do
 
