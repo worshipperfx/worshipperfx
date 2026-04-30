@@ -22,7 +22,6 @@ Let’s Connect If you love tech, automation, or just geeking out, let’s talk!
 
 [Gmail](chitengamarvelllous@gmail.com)
 
-[linkedln](https://www.linkedin.com/in/marvellous-chitenga/)
 
 
 ###
